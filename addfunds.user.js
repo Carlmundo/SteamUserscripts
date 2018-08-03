@@ -5,8 +5,8 @@
 // @description Buy a custom amount of Steam Wallet
 // @include     *://store.steampowered.com/steamaccount/addfunds
 // @grant       none
-// @downloadURL http://highog.com/tools/steam_addfunds.user.js
-// @updateURL   http://highog.com/tools/steam_addfunds.user.js
+// @downloadURL https://github.com/Carlmundo/SteamUserscripts/raw/master/addfunds.user.js
+// @updateURL   https://github.com/Carlmundo/SteamUserscripts/raw/master/addfunds.user.js
 // ==/UserScript==
 
 function submitCustomFunds() {
